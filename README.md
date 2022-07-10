@@ -7,7 +7,7 @@
 - 🔭 I've created bunch of useful Public Repositories!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to get a job in the Web Development field.
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I am a huge fan of European Football.
 
 
