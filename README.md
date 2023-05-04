@@ -19,7 +19,7 @@
 <a target="_blank" href="https://www.linkedin.com/in/ahsan-sium/"> 
 <img align="left" alt="AhsanSium | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a target="_blank" href="https://www.instagram.com/ahsanulhaque039/"> 
+<a target="_blank" href="https://www.instagram.com/ahsan.sium/"> 
     <img align="left" alt="AhsanSium | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
