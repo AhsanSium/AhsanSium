@@ -2,7 +2,7 @@
 
 
 
-## I'm a Web Developer !!
+## I'm a Software Developer !!
 
 - 🔭 I've created bunch of useful Public Repositories!
 - 🌱 I’m currently learning everything 🤣
