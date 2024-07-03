@@ -6,7 +6,7 @@
 
 - 🔭 I've created bunch of useful Public Repositories!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to get a job in the Web Development field.
+- 👯 I’m Working as an Associate Software Engineer.
 - 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I am a huge fan of European Football.
 
