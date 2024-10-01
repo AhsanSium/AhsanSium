@@ -22,6 +22,9 @@
 <a target="_blank" href="https://www.instagram.com/ahsan.sium/"> 
     <img align="left" alt="AhsanSium | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a target="_blank" href="https://ahsansium.medium.com/"> 
+    <img align="left" alt="AhsanSium | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />
+</a>
 
 
 <br />
