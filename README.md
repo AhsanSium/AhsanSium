@@ -7,7 +7,7 @@
 - 🔭 I've created bunch of useful Public Repositories!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m Working as an Associate Software Engineer.
-- 🥅 2025 Goals: Contribute more to Open Source projects
+- 🥅 2026 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I am a huge fan of European Football.
 
 
